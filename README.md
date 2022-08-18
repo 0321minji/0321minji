@@ -1,6 +1,10 @@
 # 밍
 
 ### Hi there 👋
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=0321minji&theme=warm)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
 
 <!--
 **0321minji/0321minji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
