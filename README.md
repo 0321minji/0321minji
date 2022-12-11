@@ -10,9 +10,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0321minji&show_icons=true&theme=transparent)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0321minji&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?0321minji=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **0321minji/0321minji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
