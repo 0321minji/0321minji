@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=0321minji&theme=warm)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0321minji&count_bg=%23FEBBF9&title_bg=%23A7A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
