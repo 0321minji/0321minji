@@ -8,7 +8,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={0321minji})](https://solved.ac/{0321minji})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
 
 <!--
 **0321minji/0321minji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
