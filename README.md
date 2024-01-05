@@ -7,8 +7,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
+
 
 ![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0321minji&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0321minji)
