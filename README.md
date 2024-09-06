@@ -27,6 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0321minji&layout=compact&theme=swift)
 
 ## What I Like
+test in ming
 <!--
 **0321minji/0321minji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
