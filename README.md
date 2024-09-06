@@ -26,8 +26,9 @@
 ![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0321minji&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0321minji&layout=compact&theme=swift)
 
-## What I LikE
-test1
+## What I Like
+test in ming
+
 <!--
 **0321minji/0321minji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
