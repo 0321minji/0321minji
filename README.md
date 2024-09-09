@@ -24,9 +24,10 @@
   - 캡스톤디자인경진대회 창업 아이디어 부문 동상
   - 캡스톤 포스터세션 우수상
 - SW중심대학 공동 AI 경진대회 (2023.06, 데이터퍼즐)
+- SUAPC 2021 Summer (2021.08.28)
 - ICPC 신촌 summer camp (2021.07~2021.08)
 - ICPC 신촌 winter camp (2021.01~2021.02)
-  
+
 ### I CAN
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"> <br/>
