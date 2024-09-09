@@ -1,29 +1,29 @@
-# 밍
-
+# ⚾Lead-off⚾
+### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0321minji&count_bg=%23FEBBF9&title_bg=%23A7A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
 <a href="https://dank-code.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
 <a href="https://blog.naver.com/0321minji" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white">
 
-### Hi there 👋
-<br />
+
 
 
 ### 🌈ACITIVITY
-- SDP, Sustainable Development Program (2023.09 ~ 2024.02, 임원단)
-- SDP, Sustainable Development Program (2023.09 ~ 2024.02, 학회원)
+- 신한투자증권 프로 디지털 아카데미 (2024.09 ~ )
+- [SDP](https://www.sdpglobal.org/introduction), Sustainable Development Program (2023.09 ~ 2024.02, 임원단)
+- [SDP](https://www.sdpglobal.org), Sustainable Development Program (2023.09 ~ 2024.02, 학회원)
 - 배꽃나눔실천단 2기 (2023.07 ~ 2023.08, 교육봉사 팀장)
 - 이화 소프트웨어 봉사단 (2022.12 ~ 2022.06, 봉사단원)
-- 알튜비튜, 소프트웨어학부 원스탑 튜터링 (2022.09 ~ 2022.12, 튜터)
+- [알튜비튜](https://github.com/Altu-Bitu-3), 소프트웨어학부 원스탑 튜터링 (2022.09 ~ 2022.12, 튜터)
 - 이화힐링그룹 (2021.09 ~ 2021.12, 활동지기)
 - 문제해결과 SW프로그래밍(11309) (2021.09 ~ 2023.06, 조교)  
 - EDOC, 소프트웨어학부 프로그래밍 동아리 (2022.03~2023.07, 운영진)
-- EDOC 소프트웨어학부 프로그래밍 동아리 (2020.12 ~ 2022.02, 동아리원)
+- EDOC, 소프트웨어학부 프로그래밍 동아리 (2020.12 ~ 2022.02, 동아리원)
 <br />
 
 ### 🥇CONTEST
-- 드론을 이용한 익수 상황 탐지 및 구조 알림 서비스 "SEE SEA" (2022.09 ~ 2023.06, 팀장)
+- 드론을 이용한 익수 상황 탐지 및 구조 알림 서비스 [SEE SEA](https://github.com/Ahpuh-Ahpuh/SeeSea) (2022.09 ~ 2023.06, 팀장)
   - 캡스톤디자인경진대회 창업 아이디어 부문 동상
   - 캡스톤 포스터세션 우수상
 - SW중심대학 공동 AI 경진대회 (2023.06, 데이터퍼즐)
