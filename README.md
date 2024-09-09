@@ -3,9 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0321minji&count_bg=%23FEBBF9&title_bg=%23A7A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0321minji)](https://solved.ac/0321minji)
-<a href="https://dank-code.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
-<a href="https://blog.naver.com/0321minji" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white">
-
 
 
 
@@ -58,3 +55,9 @@
 
 </div>
 
+<div align="center"> 
+<a href="https://dank-code.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> </a>
+<a href="https://blog.naver.com/0321minji" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
+<a href="mailto:0321minji@ewhain.net" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white"> </a>
+<a href=https://www.instagram.com/__m1nnnn/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/__m1nnnn/"> </a>
+</div>
