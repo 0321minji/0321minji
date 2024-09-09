@@ -39,10 +39,17 @@
 -->
 
 ### 📊MY GITHUB 
+<div align="center">    
+
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0321minji" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0321minji&hide_border=true" alt="GitHub Stats" /> <br/><br/>
+</div>
 
-![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0321minji&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0321minji&layout=compact&theme=swift)
+<div align="center">    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=0321minji&show_icons=true&theme=swift&hide_border=true&count_private=true" width="40%" />
+  <a/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0321minji&layout=compact&theme=swift&hide_border=true" width="30.5%"  />
 
+</div>
 
